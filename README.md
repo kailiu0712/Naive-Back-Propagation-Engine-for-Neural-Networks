@@ -27,7 +27,7 @@ This project is designed to be **simple, readable, and hackable**—ideal for un
 ---
 
 ## Repository Structure
-
+```text
 backproppable-array/
 ├─ README.md
 ├─ pyproject.toml
